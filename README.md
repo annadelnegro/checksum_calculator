@@ -10,7 +10,7 @@ School: University of Central Florida
 
 Language: c, c++, Java, go, python
 
-To Compile: javac pa01.java || gcc -o pa01 pa01.c || g++ -o pa01 pa01.cpp || go build pa01.go
+To Compile: javac pa02.java || gcc -o pa02 pa02.c || g++ -o pa02 pa02.cpp || go build pa02.go || python pa02.py //Caution - expecting input parameters
 
 To Execute: java -> java pa02 inputFile.txt 8 || c++ -> ./pa02 inputFile.txt 8 || c -> ./pa02 inputFile.txt 8 || go -> ./pa02 inputFile.txt 8 || python -> ppython pa02.py inputFile.txt 8
 
